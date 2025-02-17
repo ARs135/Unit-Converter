@@ -3,7 +3,7 @@ This is a simple Python Script that converts Units to Other Units (eg cm to m or
 
 ## Features
 - Converting Units to Other Units
-- Different Catagories for Units
+- Different Categories for Units
 
 ## Requirements
 - Python 3.x or higher
